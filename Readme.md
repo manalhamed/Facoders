@@ -12,6 +12,7 @@
 * __week -2: __ Creating Markdown File
 
 
-* __week -3: __Introduction to Python:
+* __week -3: __Introduction to Python:  Numbers and Strings
 
-* Numbers and Strings
+
+* __week -4: __Introduction to Python : If statement, While loop
