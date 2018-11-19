@@ -19,3 +19,6 @@
 
 
 * __week -5: __Lists and for loop
+
+
+* __week -6: __Dictionaries, User Defined Functions, Error
